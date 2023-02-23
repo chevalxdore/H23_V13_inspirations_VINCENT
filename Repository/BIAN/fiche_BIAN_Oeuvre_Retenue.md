@@ -20,8 +20,13 @@ Les installations de la série Tomorrow’s Borrowed-Scenery sont constituées d
 <img src="https://github.com/chevalxdore/H23_V13_inspirations_VINCENT/blob/b10e43e1b55539ea69a359e7cbb3734897ccb1ce/photos/IMG_8053.jpg" width="300">
 <img src="https://github.com/chevalxdore/H23_V13_inspirations_VINCENT/blob/b10e43e1b55539ea69a359e7cbb3734897ccb1ce/photos/IMG_8055.jpg" width="300">
 <img src="https://github.com/chevalxdore/H23_V13_inspirations_VINCENT/blob/b10e43e1b55539ea69a359e7cbb3734897ccb1ce/photos/IMG_8050.jpg" width="300">
+
+
 # mise en espace 
+
 ## l'oeuvre est positionnée dans un coins d'une grande pièce sur le planchée
+
+
 <img src="https://github.com/chevalxdore/H23_V13_inspirations_VINCENT/blob/adae83c7125841076293a9e32763e55daa61c9f3/Repository/BIAN/photos/Untitled.pdf">
 Il y a une seule installation lumineuse fournie par le musée qui est cette lampe positionnée en hauteur afin d'éclairer l'oeuvre au complet.
 # composante technique 
