@@ -46,3 +46,6 @@ ayant vue une exposition avec fond blanc je trouve que pour la plupart des oeuvr
 ## L'interactivité
 L'interactivité d'une oeuvre rend tout de suite l'oeuvre plus attirant au publique, mais, à contre poids, enlève un côté artistique à l'oeuvre tout dépendant comment effectuer.
 
+source
+https://arts-et-medias.net/fr/projets/paul-duncombe-tomorrows-borrowed-scenery-90s-pickups-foreground-proposition
+https://arsenalcontemporarysale.ticketpro.ca/fr/pages/arsenal_art_contemporain_bian2022
